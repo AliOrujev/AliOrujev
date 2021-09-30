@@ -1,4 +1,4 @@
-### Hi there, I'm Ali, frontend developer 👋
+### Hi there, I'm Ali, frontend developer from Russia 👋
 <br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2>⚡️ A Few Quick Facts</h2>
