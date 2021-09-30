@@ -1,5 +1,6 @@
 ### Hi there, I'm Ali, frontend developer 👋
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2>⚡️ A Few Quick Facts</h2>
 <div>
 <ul>
@@ -17,7 +18,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliOrujev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliOrujev&layout=compact)](https://github.com/AliOrujev/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliOrujev)](https://github.com/AliOrujev/github-readme-stats)
 
   
   🔗 &nbsp;**Connect with me**
