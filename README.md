@@ -1,4 +1,4 @@
-### Hi there, I'm Ali, frontend developer from Ivanovo currently living in  Saint-Petesburg, Russia. 👋
+### Hi there, I'm Ali, frontend developer 👋
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <div>
