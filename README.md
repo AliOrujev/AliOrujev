@@ -7,7 +7,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliOrujev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliOrujev&layout=compact)](https://github.com/AliOrujev/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AliOrujev&repo=Escape)](https://github.com/AliOrujev/github-readme-stats)
   
   🔗 &nbsp;**Connect with me**
 <p align="left">
