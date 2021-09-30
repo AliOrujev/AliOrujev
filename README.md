@@ -7,10 +7,8 @@
    <li>🔭 I’m currently living Moscow.</li>
    <li>🧐 Learning about </li>
    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AliOrujev">Github</a>.</li>
-   <li>📝 </li>
-   <li>💬 </li>
    <li>📙 Check out my <a href="">resume</a>.</li>
-   <li>🎉 </li>
+
 </ul>
 <div/>
 <h4>Things I code with:</h4>
