@@ -1,10 +1,10 @@
-### Hi there, I'm Ali, frontend developer from Russia 👋
+### Hi there, I'm Ali, a frontend developer from Russia 👋
 <br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h2>⚡️ A Few Quick Facts</h2>
 <div>
 <ul>
-   <li>🔭 I’m currently living Moscow.</li>
+   <li>🔭 I’m currently living in Moscow.</li>
    <li>🧐 Learning about </li>
    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AliOrujev">Github</a>.</li>
    <li>📙 Check out my <a href="">resume</a>.</li>
