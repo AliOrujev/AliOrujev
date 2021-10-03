@@ -6,7 +6,7 @@
 <ul>
    <li>🔭 I’m currently living in Moscow.</li>
    <li>🧐 Learning about </li>
-   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AliOrujev">Github</a>.</li>
+   <li>👨‍💻 Most of my projects are available on <a href="https://www.canva.com/design/DAErTZUpcQM/5xF69Jj0DVAxIHWdxYtuYg/view?utm_content=DAErTZUpcQM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Github</a>.</li>
    <li>📙 Check out my <a href="">resume</a>.</li>
 
 </ul>
