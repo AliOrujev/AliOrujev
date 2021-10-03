@@ -4,7 +4,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <div>
 <ul>
-   <li>🔭 I’m currently living in Moscow.</li>
+   <li>🔭 I’m currently living in Ivanovo.</li>
    <li>🧐 Learning about </li>
    <li>👨‍💻 Most of my projects are available on <a href="https://github.com/AliOrujev?tab=repositories">Github</a>.</li>
    <li>📙 Check out my <a href="https://www.canva.com/design/DAErTZUpcQM/5xF69Jj0DVAxIHWdxYtuYg/view?utm_content=DAErTZUpcQM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">resume</a>.</li>
