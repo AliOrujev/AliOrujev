@@ -7,7 +7,7 @@
    <li>🔭 I’m currently living in Moscow.</li>
    <li>🧐 Learning about </li>
    <li>👨‍💻 Most of my projects are available on <a href="https://hh.ru/resume/033c6a93ff07c542ba0039ed1f58764c415132">Github</a>.</li>
-   <li>📙 Check out my <a href="">resume</a>.</li>
+   <li>📙 Check out my <a href="https://www.canva.com/design/DAErTZUpcQM/5xF69Jj0DVAxIHWdxYtuYg/view?utm_content=DAErTZUpcQM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">resume</a>.</li>
 
 </ul>
 <div/>
