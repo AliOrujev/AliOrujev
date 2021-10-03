@@ -22,9 +22,8 @@
   
   🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="gautamkrishnar" height="30" width="30" /></a>
+<a href="https://t.me/AliOrujev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" alt="gautamkrishnar" height="30" width="30" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="4214976" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
 
 
